@@ -1,0 +1,21 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    padding: 10px 0;
+    width: 600px;
+    height: 350px;
+    background-image: url("https://lh6.googleusercontent.com/Ih9xA1NILN1ZE8nyLCkVEoXc7hRIJTtBqUHJ5KpTj9xbhgXAR9yLaH0mpf1C9qzLA2jDklV5Werh0qV8yiA_yTwot0WVbzU7arUxaKknjklwB0AS4VXse-chu98jwkF-fE_MUs1apWvEDlchxTjtMarrbb3Hqfq_ny5sMR1U3dYjMrz62teA6XNZ");
+    background-size: 60px;
+}
+.container2 {
+    background-color: white;
+    margin: 0 auto;
+    width: 350px;
+}
+p { 
+    color: red;
+    font-size: 80pt;
+    text-align: center;
+}
